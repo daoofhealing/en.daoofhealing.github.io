@@ -1,3 +1,5 @@
+<meta http-equiv="Refresh" content="0; url='https://daoofhealing.org/en/'" />
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/daoofhealing/en.daoofhealing.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
